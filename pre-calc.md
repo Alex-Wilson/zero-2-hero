@@ -11,7 +11,4 @@
 ### Factoring
 ### Graphing Functions and Transormations 
 
-### Intro to Conic Sections
-
-
 
