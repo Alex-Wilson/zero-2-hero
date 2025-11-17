@@ -4,6 +4,11 @@
 ### Functions and Their Properties
 ### Parent Functions
 ### Linear Functions and Equations
+
+$$
+f(x) = mx + b
+$$
+
 ### Quadratic Functions and Equations
 
 
