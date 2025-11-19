@@ -2,6 +2,11 @@
 
 ## Topics
 ### Functions and Their Properties
+
+$$
+f(x) = c
+$$
+
 ### Parent Functions
 ### Linear Functions and Equations
 
