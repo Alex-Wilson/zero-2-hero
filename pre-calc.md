@@ -2,10 +2,18 @@
 
 ## Topics
 ### Functions and Their Properties
+#### What is a function?
+A function typically refers to a mapping or assingment of values from one set to another set. 
+
+The set that is used as the input is called the domain of the function. The resultant set output by the function is called the codomain.
+
+Not all equations are functions. 
 
 $$
 f(x) = c
 $$
+
+where $$f(x)$$ represents a generic funciton f with an input of x
 
 ### Parent Functions
 ### Linear Functions and Equations
