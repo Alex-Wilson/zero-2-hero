@@ -38,30 +38,32 @@ These symbols allow us to start thinking about how we can state if an item is in
 
 Lets talk about the most important sets!
 
-**The Empty Set: $\empty$ = {$\empty$} = {x  | x $\neq$ x }**
+**The Empty Set: $\empty$ = { $\empty$ } = \{ \}**
 This set contains nothing. All sets contain the empty set. It is like the zero of the set world. A very common and very useful set. Do not confuse {0} with { }. They are very different. 
 
-**The Set of Natural Numbers: \(\mathbb{N}\) = {1,2,3,...}**
+**The Set of Natural Numbers: \(\mathbb{N}\) = $\{1, 2, 3, \ldots\}$**
 This set contains all of the of the natural numbers. Think numbers that only occur when counting. 1,2,3 and so forth.
 
-**The Set of Whole Numbers: \(\mathbb{W}\) = {0,1,2,3,...}**
+**The Set of Whole Numbers: \(\mathbb{W}\) = $\{0, 1, 2, \ldots\}$**
 This set contains all of the natural numbers and zero. 0,1,2,3 and so forth. Think about these numbers as the numbers you knew about before you knew about negative numbers. These are numbers that can be measured. 
 
-**The Set of Integer Numbers: \(\mathbb{Z}\) = {. . . , −3, −2, −1, 0, 1, 2, 3, . . .}**
+**The Set of Integer Numbers: \(\mathbb{Z}\) = $\{\ldots,-1, 0, 1, \ldots\}$**
 This set contains the natural numbers, the whole numbers, and the negative numbers. Think of these as all numbers that can be arrived at through standard addition or subtraction of whole numbers.  
 
-**The Set of Rational Numbers: \(\mathbb{Q}\) = $\left\{ \frac{a}{b} \mid a \in \mathbb{Z} \ \land b \in \mathbb{Z} \right\}$**
+**The Set of Rational Numbers: \(\mathbb{Q}\) = $\left\{ \frac{a}{b} \mid a, b \in \mathbb{Z}, \, b \neq 0 \right\}$**
+
 This set contains the natural numbers, the whole numbers, the integers, and any other numbers which can be expressed as the quotient (or ratio) of two integers (provided the denominator is not zero!). Think of numbers that are represented by a repeating or terminaiting decimal. Examples include -1, -0.$\overline{333}$, 0, 0.5, and 1. Think of these as numbers you can arrive at from multiplication or division.  
 
-**The Set of Irrational Numbers: \(\mathbb{I} = \{ x \mid x \in \mathbb{R} \land x \notin \mathbb{Q} \}\)**
+**The Set of Irrational Numbers: \(\mathbb{I}\) = $\{x \mid x \in \mathbb{R} \land x \notin \mathbb{Q}\}$**
 
-This set contains any number that has a decimal representation and CANNOT be described as the quotient of two integers. There values are infiteley precise and do not repeat or teminate. These are rare and intriguing numbers like $\sqrt{2}$ or $\pi$. Think of this as the "everything thats in $\mathbb{R}$ but not in $\mathbb{Q}$".
+This set contains any number that has a decimal representation and CANNOT be described as the quotient of two integers. There values are infiteley precise and do not repeat or teminate. These are rare and intriguing numbers like $\sqrt{2}$ or $\pi$ but there are an infinite number of them. Think of this as the "everything thats in $\mathbb{R}$ but not in $\mathbb{Q}$".
 
-**The Set of Real Numbers: \(\mathbb{R}\) = {x | x can be pointed to on a number line}**
-This set contains the natural numbers, the whole numbers, the integers, the rational numbers and irrational numbers.  This set contains any number that has a decimal component. All of these numbers have no imaginary component. They can all be mapped onto a number line, even if the number line requires infinite zooming.
+**The Set of Real Numbers: $\mathbb{R} = \{ x \mid x \in \mathbb{Q} \lor x \in \mathbb{I} \}$**
+This set contains all numbers which do not contain a complex component or do not have ($bi$ = 0). This is explored in more deail in bi = 0.  This set contains any number that has a decimal component. All of these numbers have no imaginary component. They can all be mapped onto a single number line.
 
 
-**The Set of Complex Numbers: \(\mathbb{R}\) = {x | x can be pointed to on a number line}**
+**The Set of Complex Numbers: \(\mathbb{C} = \{ a + bi \mid a, b \in \mathbb{R}, \, i = \sqrt{-1} \} \)**
+All numbers who contain a real value, $a$, and an imaginary value, $b$ multiplied by the number $i$ where $i$ is equal to $\sqrt{-1}$. 
 
 
 
